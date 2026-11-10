@@ -1,0 +1,4 @@
+bench-results/
+__pycache__/
+*.py[cod]
+*.log
